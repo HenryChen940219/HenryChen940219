@@ -1,6 +1,5 @@
 # Hi, I'm Chi-Yu Chen (陳紀宇) 👋
 
-B.S. Data Science @ Soochow University · Expected May 2026  
 I build things at the intersection of **AR**, **AI**, and **Game Development**.
 
 ---
