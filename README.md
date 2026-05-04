@@ -4,7 +4,6 @@
 
 **東吳大學 資料科學系 ｜ 行動開發 × 資安研究 × 資料科學 × 全端開發**
 
-[![GitHub followers](https://img.shields.io/github/followers/HenryChen940219?style=flat&color=6366f1)](https://github.com/HenryChen940219)
 [![Email](https://img.shields.io/badge/Email-cchen7393%40gmail.com-f97316?style=flat&logo=gmail&logoColor=white)](mailto:cchen7393@gmail.com)
 
 </div>
