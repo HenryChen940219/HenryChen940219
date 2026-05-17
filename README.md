@@ -58,18 +58,6 @@
 
 ---
 
-### 資安研究
-
-#### [RAGPen — RAG 應用程式自動化安全評估框架](https://github.com/HenryChen940219/ragpen)
-
-> RAGPen 之於 RAG 系統，猶如 Burp Suite 之於網頁應用程式
-
-第一個將**完整 RAG Pipeline** 視為滲透目標的自動化紅隊框架，跨三種攻擊向量（PII 洩漏、憑證洩漏、間接 Prompt Injection）對整個系統進行探測，並自動生成 OWASP LLM Top 10 對齊的安全報告。附帶刻意設計有漏洞的 HR RAG 靶機系統（50 份文件）供即時示範。
-
-`Python` `Gemini API` `FastAPI` `OWASP LLM Top 10` `LLM Security` `RAG`
-
----
-
 ### 雲端與全端開發
 
 #### [AI 智慧工具平台 — Azure 多功能 AI 網頁應用](https://github.com/HenryChen940219/azure-project)
@@ -85,18 +73,6 @@
 以 Node.js + SQLite 為後端、Vanilla HTML/CSS/JS 為前端的完整健身房網站。功能包含課程瀏覽、器材購買、購物車（含折扣碼）、會員系統（bcrypt 加密）、VIP 升級機制與問卷回饋系統。
 
 `Node.js` `Express.js` `SQLite` `bcryptjs` `HTML/CSS/JS` `express-session`
-
----
-
-### 資料科學
-
-#### [PTT 情感分析系統 — 批踢踢論壇 NLP 分析](https://github.com/HenryChen940219/ptt-sentiment-analysis)
-
-> 資料分析期末專題
-
-爬取 PTT 六大版面文章，結合 OpenCC 繁簡轉換與 SnowNLP 情感分析，對文字進行正面／負面／中立三分類。提供互動式 Tkinter GUI、文字雲視覺化、跨版面批次比較，並支援 CSV / Excel / PDF 多格式匯出。
-
-`Python` `SnowNLP` `OpenCC` `BeautifulSoup4` `Tkinter` `Matplotlib` `WordCloud` `ReportLab`
 
 ---
 
