@@ -2,7 +2,7 @@
 
 # 陳紀宇 Chi-Yu, Chen
 
-**東吳大學 資料科學系 ｜ 行動開發 × 資安研究 × 資料科學 × 全端開發**
+**東吳大學 資料科學系 ｜ 行動開發 × 資料科學 × 全端開發**
 
 [![Email](https://img.shields.io/badge/Email-cchen7393%40gmail.com-f97316?style=flat&logo=gmail&logoColor=white)](mailto:cchen7393@gmail.com)
 
